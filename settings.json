@@ -1,0 +1,14 @@
+{
+  "theme": "dark",
+  "font_size": "large",
+  "auto_save": true,
+  "show_explanations": false,
+  "timer_alerts": false,
+  "screen_scaling": 120,
+  "animations": false,
+  "study_mode": false,
+  "keyboard_shortcuts": true,
+  "show_progress": true,
+  "confirm_on_exit": true,
+  "navigation_mode": "scroll"
+}
