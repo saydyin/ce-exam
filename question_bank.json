@@ -1,36 +1,458 @@
 [
   {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q1: MSTE concept question.",
+    "section": "AMSTHEC",
+    "group_id": "M11-01M",
+    "stem": "Situation: A block of copper having a mass of 50 kg is drawn out to make 500m of wire of uniform cross-section. Given that the density of copper is 8.91 g/cm³, calculate the following: What is the volume of steel in cubic centimeter?",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 6105",
+      "B. 5097",
+      "C. 5938",
+      "D. 5612"
+    ],
+    "correct_answer": "D",
+    "difficulty": 1,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-01M",
+    "stem": "What is the cross-sectional area of the wire in square millimeters?",
+    "choices": [
+      "A. 11.22",
+      "B. 10.19",
+      "C. 12.21",
+      "D. 11.88"
+    ],
+    "correct_answer": "A",
+    "difficulty": 1,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-01M",
+    "stem": "What is the diameter of the wire in mm?",
+    "choices": [
+      "A. 3.94",
+      "B. 3.78",
+      "C. 3.89",
+      "D. 3.60"
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q2: MSTE concept question.",
+    "section": "AMSTHEC",
+    "group_id": "M11-02M",
+    "stem": "Situation: Two conic sections have the following equations: x² + y² - 8x + 4y - 16 = 0 and y² - 16x + 4y + 68 = 0. Which of the following defines these conics?",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. ellipse and parabola",
+      "B. circle and parabola",
+      "C. circle and ellipse",
+      "D. ellipse and hyperbola"
+    ],
+    "correct_answer": "B",
+    "difficulty": 1,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-02M",
+    "stem": "Which of the following is a point of intersection of the conics?",
+    "choices": [
+      "A. (5, 3.66)",
+      "B. (6, 2.32)",
+      "C. (6, 3.66)",
+      "D. (5, 2.32)"
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
+    "group_id": "M11-02M",
+    "stem": "What is the distance between their points of intersection?",
+    "choices": [
+      "A. 11.875",
+      "B. 10.932",
+      "C. 11.314",
+      "D. 12.342"
+    ],
+    "correct_answer": "C",
+    "difficulty": 1,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-03M",
+    "stem": "Situation: Solve the following geometry problems. A sphere of radius 6 units have its center at the origin. Which of the following points is outside the sphere?",
+    "choices": [
+      "A. (3, 1, 4)",
+      "B. (2, 5, 1)",
+      "C. (3, 4, 3)",
+      "D. (2, 4, 5)"
+    ],
+    "correct_answer": "D",
+    "difficulty": 2,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-03M",
+    "stem": "A sphere of radius 15 units have its center at the origin. Given three points P₁(6, 8, 9), P₂(5, 8, 10), and P₃(4, 3, 12). Which of the following is/are inside the sphere?",
+    "choices": [
+      "A. P₂ and P₃ only",
+      "B. P₁ only",
+      "C. P₁, P₂, and P₃",
+      "D. P₁ and P₂ only"
+    ],
+    "correct_answer": "C",
+    "difficulty": 2,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-03M",
+    "stem": "Find the distance of the following points in three-dimensional space: (0, 0, 0) and (5, 6, 7).",
+    "choices": [
+      "A. 10.49",
+      "B. 12.76",
+      "C. 11.76",
+      "D. 9.54"
+    ],
+    "correct_answer": "A",
+    "difficulty": 2,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-04M",
+    "stem": "Situation: Solve the following solid geometry problems: A cylinder is inscribed in a cube of side 2 meters. Find the volume inside the cube but outside the cylinder.",
+    "choices": [
+      "A. 1.717 m³",
+      "B. 1.653 m³",
+      "C. 1.793 m³",
+      "D. 1.864 m³"
+    ],
+    "correct_answer": "A",
+    "difficulty": 1,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-04M",
+    "stem": "Given a cube of side 1 m. Find the volume of the cone inscribed in this cube, with base of cone on one side of the cube.",
+    "choices": [
+      "A. 0.393 m³",
+      "B. 0.262 m³",
+      "C. 0.196 m³",
+      "D. 0.524 m³"
+    ],
+    "correct_answer": "B",
+    "difficulty": 1,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-04M",
+    "stem": "The sides of a rectangular parallelepiped measure 3 cm, 4 cm, and 6 cm. Find the radius of the sphere that can circumscribe this solid.",
+    "choices": [
+      "A. 4.321 cm",
+      "B. 2.754 cm",
+      "C. 7.812 cm",
+      "D. 3.905 cm"
+    ],
+    "correct_answer": "D",
+    "difficulty": 1,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-05M",
+    "stem": "Situation: Answer the following algebra problems: In a company of CE, ME, and EE, the sum of all their ages is 2160 and their average age is 36. The average age of CE and ME is 39, of CE and EE is 110/3, and of EE and ME is 360/11. If the ages of CE is increased by 1, of ME is increased by 6, and of EE is increased by 7, the average of all their ages in increased by 5. How many CE are there?",
+    "choices": [
+      "A. 20",
+      "B. 18",
+      "C. 24",
+      "D. 16"
+    ],
+    "correct_answer": "D",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-05M",
+    "stem": "Engineer Cruz started walking from point O at uniform speed of 6 kph. After 2 hours, Engineer Fernandez started walking from the same point O and walked 4 km in the first hour, 5 km in the second hour, and so on, increasing 1 km each hour. How many hours after Engr. Cruz left point O will they be together?",
+    "choices": [
+      "A. 8",
+      "B. 12",
+      "C. 10",
+      "D. 14"
+    ],
+    "correct_answer": "C",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-05M",
+    "stem": "A farmer owns two square lots of unequal size, together containing 6,568 m². If the lots are contiguous, it would require 356 m of fence to enclose them into a single enclosure of six sides. What is the dimension of the smaller lot?",
+    "choices": [
+      "A. 33 m",
+      "B. 62 m",
+      "C. 22 m",
+      "D. 78 m"
+    ],
+    "correct_answer": "C",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-06M",
+    "stem": "Situation: Answer the following calculus problems: A triangle in the first quadrant is bounded by the X- and Y- axes and a line that passes through (1, 2). What is the slope of the line if the area of the triangle is to be minimum?",
+    "choices": [
+      "A. 3",
+      "B. 1/3",
+      "C. 1/2",
+      "D. 2"
+    ],
+    "correct_answer": "D",
+    "difficulty": 2,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-06M",
+    "stem": "What is the nearest distance from the hyperbola x² - y² = 4 to point (6, 0)?",
+    "choices": [
+      "A. 3.632",
+      "B. 3.518",
+      "C. 3.742",
+      "D. 3.861"
+    ],
+    "correct_answer": "C",
+    "difficulty": 2,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-06M",
+    "stem": "An inverted conical tank has a base radius of 10 m and height of 20 m. Water flows out from the tank at 150 liters per second. How fast is the water surface falling when the depth of water in the tank is 8 m?",
+    "choices": [
+      "A. 3.57 cm/min",
+      "B. 4.48 cm/min",
+      "C. 5.23 cm/min",
+      "D. 2.45 cm/min"
+    ],
+    "correct_answer": "B",
+    "difficulty": 2,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-07M",
+    "stem": "Situation: A square lot 1 kilometer on each side is divided into five equal parts. The parts consist of four equal right triangles and a square at the center of the lot. What is the dimension of the smaller square in meters?",
+    "choices": [
+      "A. 447.21",
+      "B. 336.67",
+      "C. 200",
+      "D. 420"
+    ],
+    "correct_answer": "A",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-07M",
+    "stem": "If this process is continued, what will be the dimension of the next smaller square in meters?",
+    "choices": [
+      "A. 336.67",
+      "B. 420",
+      "C. 447.21",
+      "D. 200"
+    ],
+    "correct_answer": "D",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-07M",
+    "stem": "What is the ratio of the area of the smallest square to the original square?",
+    "choices": [
+      "A. 0.2",
+      "B. 0.04",
+      "C. 0.008",
+      "D. 0.5"
+    ],
+    "correct_answer": "B",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-08M",
+    "stem": "Situation: Two trains A and B are travelling in the same direction, with train A behind train B. Train A, 65 meters long, is travelling at 240 kph. Train B, 85 meters long, is travelling at 120 kph. At a certain instant, the trains are 200 m apart (clear distance). Find the time when train A starts to overtake train B.",
+    "choices": [
+      "A. 6.5 sec",
+      "B. 5 sec",
+      "C. 6 sec",
+      "D. 7 sec"
+    ],
+    "correct_answer": "C",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-08M",
+    "stem": "Find the time when train A completely overtakes Train B.",
+    "choices": [
+      "A. 11.5 sec",
+      "B. 10 sec",
+      "C. 10.5 s",
+      "D. 11 sec"
+    ],
+    "correct_answer": "C",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-08M",
+    "stem": "Find the distance travelled by train A when it completely overtakes train B.",
+    "choices": [
+      "A. 700 m",
+      "B. 650 m",
+      "C. 600 m",
+      "D. 550 m"
+    ],
+    "correct_answer": "A",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-09M",
+    "stem": "Situation: In a certain barangay, 80% of the population have cellphone. Two people from the barangay were selected at random. Find the probability that the two have cellphones.",
+    "choices": [
+      "A. 0.32",
+      "B. 0.64",
+      "C. 0.16",
+      "D. 0.08"
+    ],
+    "correct_answer": "B",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-09M",
+    "stem": "Find the probability that one has cellphone and the other has none.",
+    "choices": [
+      "A. 0.64",
+      "B. 0.08",
+      "C. 0.08",
+      "D. 0.32"
+    ],
+    "correct_answer": "D",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-09M",
+    "stem": "Find the probability that the two have no cellphones.",
+    "choices": [
+      "A. 0.16",
+      "B. 0.02",
+      "C. 0.08",
+      "D. 0.04"
+    ],
+    "correct_answer": "D",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-10M",
+    "stem": "Situation: Evaluate the following limits: Lim (4x² + 19x - 30) / (4x² - 33x + 35) as x approaches 1.25.",
+    "choices": [
+      "A. -2.167",
+      "B. 0",
+      "C. -1.261",
+      "D. -1.873"
+    ],
+    "correct_answer": "C",
+    "difficulty": 1,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-10M",
+    "stem": "Lim (2x³ - 6x² - 8x + 24) / (x² - 2x - 3) as x approaches 3.",
+    "choices": [
+      "A. 2.3",
+      "B. 2.5",
+      "C. 3.6",
+      "D. 1.8"
+    ],
+    "correct_answer": "B",
+    "difficulty": 1,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
+    "group_id": "M11-10M",
+    "stem": "Lim (x³ + 8x² + x - 42) / (x² + 10x + 21) as x approaches -3.",
+    "choices": [
+      "A. -5",
+      "B. 5",
+      "C. -4",
+      "D. 4"
+    ],
+    "correct_answer": "A",
+    "difficulty": 1,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q3: MSTE concept question.",
+    "stem": "Q31: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -39,12 +461,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q4: MSTE concept question.",
+    "stem": "Q32: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -53,12 +476,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q5: MSTE concept question.",
+    "stem": "Q33: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -67,12 +491,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q6: MSTE concept question.",
+    "stem": "Q34: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -81,12 +506,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q7: MSTE concept question.",
+    "stem": "Q35: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -95,12 +521,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q8: MSTE concept question.",
+    "stem": "Q36: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -109,12 +536,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q9: MSTE concept question.",
+    "stem": "Q37: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -123,12 +551,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q10: MSTE concept question.",
+    "stem": "Q38: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -137,12 +566,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q11: MSTE concept question.",
+    "stem": "Q39: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -151,12 +581,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q12: MSTE concept question.",
+    "stem": "Q40: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -165,12 +596,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q13: MSTE concept question.",
+    "stem": "Q41: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -179,12 +611,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q14: MSTE concept question.",
+    "stem": "Q42: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -193,12 +626,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q15: MSTE concept question.",
+    "stem": "Q43: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -207,12 +641,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q16: MSTE concept question.",
+    "stem": "Q44: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -221,12 +656,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q17: MSTE concept question.",
+    "stem": "Q45: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -235,12 +671,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q18: MSTE concept question.",
+    "stem": "Q46: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -249,12 +686,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q19: MSTE concept question.",
+    "stem": "Q47: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -263,12 +701,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q20: MSTE concept question.",
+    "stem": "Q48: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -277,12 +716,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q21: MSTE concept question.",
+    "stem": "Q49: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -291,12 +731,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q22: MSTE concept question.",
+    "stem": "Q50: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -305,12 +746,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q23: MSTE concept question.",
+    "stem": "Q51: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -319,12 +761,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q24: MSTE concept question.",
+    "stem": "Q52: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -333,12 +776,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q25: MSTE concept question.",
+    "stem": "Q53: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -347,12 +791,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q26: MSTE concept question.",
+    "stem": "Q54: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -361,12 +806,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q27: MSTE concept question.",
+    "stem": "Q55: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -375,12 +821,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q28: MSTE concept question.",
+    "stem": "Q56: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -389,12 +836,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q29: MSTE concept question.",
+    "stem": "Q57: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -403,12 +851,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q30: MSTE concept question.",
+    "stem": "Q58: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -417,12 +866,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q31: MSTE concept question.",
+    "stem": "Q59: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -431,12 +881,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q32: MSTE concept question.",
+    "stem": "Q60: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -445,12 +896,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q33: MSTE concept question.",
+    "stem": "Q61: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -459,12 +911,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q34: MSTE concept question.",
+    "stem": "Q62: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -473,12 +926,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q35: MSTE concept question.",
+    "stem": "Q63: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -487,12 +941,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q36: MSTE concept question.",
+    "stem": "Q64: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -501,12 +956,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q37: MSTE concept question.",
+    "stem": "Q65: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -515,12 +971,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q38: MSTE concept question.",
+    "stem": "Q66: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -529,12 +986,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q39: MSTE concept question.",
+    "stem": "Q67: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -543,12 +1001,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q40: MSTE concept question.",
+    "stem": "Q68: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -557,12 +1016,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q41: MSTE concept question.",
+    "stem": "Q69: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -571,12 +1031,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q42: MSTE concept question.",
+    "stem": "Q70: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -585,12 +1046,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q43: MSTE concept question.",
+    "stem": "Q71: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -599,12 +1061,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q44: MSTE concept question.",
+    "stem": "Q72: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -613,12 +1076,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q45: MSTE concept question.",
+    "stem": "Q73: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -627,12 +1091,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q46: MSTE concept question.",
+    "stem": "Q74: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -641,12 +1106,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
+    "section": "AMSTHEC",
     "group_id": null,
-    "stem": "Q47: MSTE concept question.",
+    "stem": "Q75: AMSTHEC concept question.",
     "choices": [
       "A",
       "B",
@@ -655,822 +1121,461 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q48: MSTE concept question.",
+    "section": "HPGE",
+    "group_id": "M11-01H",
+    "stem": "Situation: A prestressed concrete pile, 360 mm × 360 mm in cross-section, is to be driven in a clayey soil (γ = 18.5 kN/m³) as shown in Figure 56-13(02)-S22. The pile has a design capacity of 360 kN. Use factor of safety of 2. The unconfined compression shear strength, qᵤ, of the soil is 110 kPa. Use Nc = 9. What is the end bearing capacity of pile in kN?",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "D",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q49: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 68.43",
+      "B. 64.15",
+      "C. 73.21",
+      "D. 57.93"
     ],
     "correct_answer": "B",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 2,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-01H.jpg?raw=true"
+  },
   {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q50: MSTE concept question.",
+    "section": "HPGE",
+    "group_id": "M11-01H",
+    "stem": "Compute the skin friction in kN expected to develop along the shaft of the pile.",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "C",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q51: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 655.8",
+      "B. 783.2",
+      "C. 623.8",
+      "D. 578.5"
     ],
     "correct_answer": "A",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 2,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-01H.jpg?raw=true"
+  },
   {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q52: MSTE concept question.",
+    "section": "HPGE",
+    "group_id": "M11-01H",
+    "stem": "Compute the length of the pile if frictional constant α = 0.75.",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "D",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q53: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "B",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q54: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "C",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q55: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "A",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q56: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "D",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q57: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "B",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q58: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "C",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q59: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "A",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q60: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "D",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q61: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "B",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q62: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "C",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q63: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "A",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q64: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "D",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q65: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "B",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q66: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "C",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q67: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "A",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q68: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "D",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q69: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "B",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q70: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "C",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q71: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "A",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q72: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "D",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q73: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "B",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q74: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "C",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "MSTE",
-    "group_id": null,
-    "stem": "Q75: MSTE concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "A",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": "hge-001",
-    "stem": "A soil sample has void ratio e = 0.6, specific gravity Gs = 2.65. Use for Q1–Q3.",
-    "choices": [
-      "0.377",
-      "0.600",
-      "1.000",
-      "1.587"
+      "A. 12.67 m",
+      "B. 10.58 m",
+      "C. 11.54 m",
+      "D. 11.04 m"
     ],
     "correct_answer": "D",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-01H.jpg?raw=true"
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": "hge-001",
-    "stem": "Q2: H&G concept question.",
+    "section": "HPGE",
+    "group_id": "M11-02H",
+    "stem": "Situation: A confined aquifer is shown in Figure 36-56(78)S03. This aquifer has a source of recharge located as shown. The hydraulic conductivity of the aquifer is 45 m/day with a porosity of 25%. The piezometric (head) surface in the two observation wells 1650 m apart are at elevation 65 m and 60 m, respectively from the common datum. The aquifer has an average thickness of 25 m and an average width of 4 km. Determine the nearest value to the rate of flow of water through the aquifer, in cubic meters per day.",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "B",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": "hge-001",
-    "stem": "Q3: H&G concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "C",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "The permeability of soil is highest in: ",
-    "choices": [
-      "Clay",
-      "Silt",
-      "Sand",
-      "Gravel"
+      "A. 10,606",
+      "B. 16,667",
+      "C. 7,576",
+      "D. 13,636"
     ],
     "correct_answer": "D",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-02H.jpg?raw=true"
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Active earth pressure occurs when the retaining wall:",
+    "section": "HPGE",
+    "group_id": "M11-02H",
+    "stem": "Determine the nearest value to the seepage velocity in m/day.",
     "choices": [
-      "Moves towards the soil",
-      "Moves away from the soil",
-      "Rotates about the base",
-      "Translates horizontally"
-    ],
-    "correct_answer": "B",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "The factor of safety against sliding for a dam is calculated based on:",
-    "choices": [
-      "Resisting force / Driving force",
-      "Driving force / Resisting force",
-      "Resisting moment / Overturning moment",
-      "Overturning moment / Resisting moment"
-    ],
-    "correct_answer": "A",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "The phreatic line in an earth dam represents the:",
-    "choices": [
-      "Top of the dam",
-      "Bottom of the dam",
-      "Free water surface",
-      "Slip surface"
+      "A. 0.303",
+      "B. 0.424",
+      "C. 0.545",
+      "D. 0.667"
     ],
     "correct_answer": "C",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-02H.jpg?raw=true"
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "In open channel flow, the hydraulic radius is defined as:",
+    "section": "HPGE",
+    "group_id": "M11-02H",
+    "stem": "Determine the nearest value to the time of travel from the head of aquifer to a point 4.2 km downstream, in days.",
     "choices": [
-      "Area / Wetted Perimeter",
-      "Wetted Perimeter / Area",
-      "Area / Width",
-      "Width / Area"
-    ],
-    "correct_answer": "A",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Manning's equation is used for:",
-    "choices": [
-      "Pipe flow",
-      "Open channel flow",
-      "Groundwater flow",
-      "Compressible flow"
-    ],
-    "correct_answer": "B",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "The Darcy-Weisbach equation is used to calculate:",
-    "choices": [
-      "Head loss due to friction",
-      "Minor head loss",
-      "Velocity",
-      "Pressure"
-    ],
-    "correct_answer": "A",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "The rational method is used to estimate:",
-    "choices": [
-      "Infiltration",
-      "Evaporation",
-      "Peak discharge",
-      "Runoff volume"
+      "A. 6,300",
+      "B. 13,860",
+      "C. 7,700",
+      "D. 9,900"
     ],
     "correct_answer": "C",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-02H.jpg?raw=true"
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q11: H&G concept question.",
+    "section": "HPGE",
+    "group_id": "M11-03H",
+    "stem": "Situation: A rectangular canal is 5.6 meters wide and 1.2 meters depth. The canal is laid on a uniform slope of 0.002 and roughness coefficient is 0.013. Calculate the discharge in the canal, in m³/s.",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 23.45",
+      "B. 20.58",
+      "C. 18.56",
+      "D. 15.89"
     ],
     "correct_answer": "B",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q12: H&G concept question.",
+    "section": "HPGE",
+    "group_id": "M11-03H",
+    "stem": "What savings in lining per meter length of canal could have been effected if the most efficient rectangular section were used for the same discharge and slope?",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "C",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q13: H&G concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 0.826 m² per meter",
+      "B. 0.921 m² per meter",
+      "C. 0.751 m² per meter",
+      "D. 0.628 m² per meter"
     ],
     "correct_answer": "A",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q14: H&G concept question.",
+    "section": "HPGE",
+    "group_id": "M11-03H",
+    "stem": "What savings in earth excavation per meter length of canal could have been effected if the most efficient rectangular section were used for the same discharge and slope?",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 0.287 m³ per meter",
+      "B. 0.321 m³ per meter",
+      "C. 0.171 m³ per meter",
+      "D. 0.522 m³ per meter"
+    ],
+    "correct_answer": "A",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "HPGE",
+    "group_id": "M11-04H",
+    "stem": "Situation: A pump draws 24 liters per second of water from reservoir C and lifts it to reservoir D as shown in Figure 402. The head lost from C to 1 is 3 times the velocity head in the 150-mm suction line and the head lost from 2 to D is 25 times the velocity head in the 100-mm discharge line. What is the power delivered by the pump to the system in hp?",
+    "choices": [
+      "A. 73.21",
+      "B. 65.93",
+      "C. 83.87",
+      "D. 79.62"
     ],
     "correct_answer": "D",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-04H.jpg?raw=true"
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q15: H&G concept question.",
+    "section": "HPGE",
+    "group_id": "M11-04H",
+    "stem": "What is the pressure head at point 1 in meters of water?",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "B",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q16: H&G concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "C",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q17: H&G concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 19.62",
+      "B. 23.56",
+      "C. 32.67",
+      "D. 16.58"
     ],
     "correct_answer": "A",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-04H.jpg?raw=true"
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q18: H&G concept question.",
+    "section": "HPGE",
+    "group_id": "M11-04H",
+    "stem": "What is the pressure head at point 2 in meters of water?",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 234.89",
+      "B. 321.67",
+      "C. 271.42",
+      "D. 178.43"
+    ],
+    "correct_answer": "C",
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-04H.jpg?raw=true"
+  },
+  {
+    "section": "HPGE",
+    "group_id": "M11-05H",
+    "stem": "Situation: The result of a triaxial test on a cohesive soil is as follows: Angle of shearing resistance = 29°, Cohesion = 31 kPa, Maximum shearing stress = 65 kPa. Compute for the value of the cell pressure at failure, in kPa.",
+    "choices": [
+      "A. 15.15",
+      "B. 13.15",
+      "C. 12.15",
+      "D. 14.15"
+    ],
+    "correct_answer": "B",
+    "difficulty": 1,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "HPGE",
+    "group_id": "M11-05H",
+    "stem": "Compute for the value of the maximum principal stress at failure, in kPa.",
+    "choices": [
+      "A. 165.15",
+      "B. 154.15",
+      "C. 132.15",
+      "D. 143.15"
     ],
     "correct_answer": "D",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 1,
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q19: H&G concept question.",
+    "section": "HPGE",
+    "group_id": "M11-05H",
+    "stem": "Compute for the value of the normal stress at the plane of maximum shear, in kPa.",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "B",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q20: H&G concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "C",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q21: H&G concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 78.15",
+      "B. 89.15",
+      "C. 65.15",
+      "D. 71.15"
     ],
     "correct_answer": "A",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 1,
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q22: H&G concept question.",
+    "section": "HPGE",
+    "group_id": "M11-06H",
+    "stem": "Situation: A closed conical tank has a bottom radius of 33 cm and is 50 cm tall. The tank contains 0.026 m³ of water. What is the depth of water in the tank in centimeters?",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 9.65",
+      "B. 8.56",
+      "C. 9.18",
+      "D. 12.34"
+    ],
+    "correct_answer": "C",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "HPGE",
+    "group_id": "M11-06H",
+    "stem": "What is the total volume of the tank in cubic meter?",
+    "choices": [
+      "A. 0.094",
+      "B. 0.075",
+      "C. 0.063",
+      "D. 0.057"
     ],
     "correct_answer": "D",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q23: H&G concept question.",
+    "section": "HPGE",
+    "group_id": "M11-06H",
+    "stem": "How much water is required to fill the tank, in cubic meters?",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "B",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q24: H&G concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "C",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q25: H&G concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 0.031",
+      "B. .068",
+      "C. 0.049",
+      "D. 0.037"
     ],
     "correct_answer": "A",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q26: H&G concept question.",
+    "section": "HPGE",
+    "group_id": "M11-07H",
+    "stem": "Situation: Water is flowing in a 200-mm-diameter rigid pipe that is 850 m long. The increase in pressure caused by instantaneous closure of the valve near the exit is 700 kPa. Bulk modulus of elasticity of water is 2.07 × 10⁹ Pa. What is the celerity of pressure wave in m/s?",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 1528",
+      "B. 1439",
+      "C. 1321",
+      "D. 1639"
+    ],
+    "correct_answer": "B",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "HPGE",
+    "group_id": "M11-07H",
+    "stem": "What is the maximum discharge in m³/s?",
+    "choices": [
+      "A. 0.0231",
+      "B. 0.0153",
+      "C. 0.0179",
+      "D. 0.0321"
+    ],
+    "correct_answer": "B",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "HPGE",
+    "group_id": "M11-07H",
+    "stem": "What water hammer pressure is expected if the valve is closed in 3 seconds?",
+    "choices": [
+      "A. 365 kPa",
+      "B. 128 kPa",
+      "C. 567 kPa",
+      "D. 276 kPa"
     ],
     "correct_answer": "D",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q27: H&G concept question.",
+    "section": "HPGE",
+    "group_id": "M11-08H",
+    "stem": "Situation: A tank 12 m high is to be filled with oil with unit weight of 9.4 kN/m³ as shown in Figure 2345. Neglect the weight of tank. Calculate the compression index of the clay layer.",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "B",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q28: H&G concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 0.421",
+      "B. 0.346",
+      "C. 0.369",
+      "D. 0.325"
     ],
     "correct_answer": "C",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-08H.jpg?raw=true"
+  },
   {
-    "section": "Hydro & Geo",
-    "group_id": null,
-    "stem": "Q29: H&G concept question.",
+    "section": "HPGE",
+    "group_id": "M11-08H",
+    "stem": "Calculate the settlement under the center of the tank in mm.",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 872",
+      "B. 456",
+      "C. 723",
+      "D. 687"
     ],
     "correct_answer": "A",
-    "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-08H.jpg?raw=true"
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
+    "group_id": "M11-08H",
+    "stem": "Calculate the minimum depth to which the tank's base must be placed to minimize settlement.",
+    "choices": [
+      "A. 5.12 m",
+      "B. 4.38 m",
+      "C. 6.24 m",
+      "D. 8.43 m"
+    ],
+    "correct_answer": "C",
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-08H.jpg?raw=true"
+  },
+  {
+    "section": "HPGE",
+    "group_id": "M11-09H",
+    "stem": "Situation: Given the following properties of a soil: Specific gravity of solids = 2.70, Void ratio = 73%, Degree of saturation = 92%. Determine the nearest value to the moisture content of the soil.",
+    "choices": [
+      "A. 27.04%",
+      "B. 28.45%",
+      "C. 26.45%",
+      "D. 24.87%"
+    ],
+    "correct_answer": "D",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "HPGE",
+    "group_id": "M11-09H",
+    "stem": "Determine the nearest value to the dry unit weight of the soil.",
+    "choices": [
+      "A. 16.43 kN/m³",
+      "B. 17.11 kN/m³",
+      "C. 14.65 kN/m³",
+      "D. 15.31 kN/m³"
+    ],
+    "correct_answer": "D",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "HPGE",
+    "group_id": "M11-09H",
+    "stem": "Determine the nearest value to the moisture content when the soil is saturated.",
+    "choices": [
+      "A. 24.87%",
+      "B. 27.04%",
+      "C. 26.45%",
+      "D. 28.45%"
+    ],
+    "correct_answer": "B",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "HPGE",
+    "group_id": "M11-10H",
+    "stem": "Situation: A thick layer of saturated clay has moisture content of 59%. The specific gravity of soil solids is 2.68. The water table is on the ground surface. What is the density of clay in grams per cc?",
+    "choices": [
+      "A. 1.65",
+      "B. 1.78",
+      "C. 1.57",
+      "D. 1.89"
+    ],
+    "correct_answer": "A",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "HPGE",
+    "group_id": "M11-10H",
+    "stem": "What is the effective stress at a depth of 30 m?",
+    "choices": [
+      "A. 167.83 kPa",
+      "B. 191.55 kPa",
+      "C. 476.54 kPa",
+      "D. 485.85 kPa"
+    ],
+    "correct_answer": "B",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "HPGE",
+    "group_id": "M11-10H",
+    "stem": "What is the total stress at a depth of 30 m?",
+    "choices": [
+      "A. 476.54 kPa",
+      "B. 167.83 kPa",
+      "C. 485.85 kPa",
+      "D. 191.55 kPa"
+    ],
+    "correct_answer": "C",
+    "difficulty": 3,
+    "term": "False",
+    "figure": null
+  },
+  {
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q30: H&G concept question.",
     "choices": [
@@ -1481,10 +1586,11 @@
     ],
     "correct_answer": "D",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q31: H&G concept question.",
     "choices": [
@@ -1495,10 +1601,11 @@
     ],
     "correct_answer": "B",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q32: H&G concept question.",
     "choices": [
@@ -1509,10 +1616,11 @@
     ],
     "correct_answer": "C",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q33: H&G concept question.",
     "choices": [
@@ -1523,10 +1631,11 @@
     ],
     "correct_answer": "A",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q34: H&G concept question.",
     "choices": [
@@ -1537,10 +1646,11 @@
     ],
     "correct_answer": "D",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q35: H&G concept question.",
     "choices": [
@@ -1551,10 +1661,11 @@
     ],
     "correct_answer": "B",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q36: H&G concept question.",
     "choices": [
@@ -1565,10 +1676,11 @@
     ],
     "correct_answer": "C",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q37: H&G concept question.",
     "choices": [
@@ -1579,10 +1691,11 @@
     ],
     "correct_answer": "A",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q38: H&G concept question.",
     "choices": [
@@ -1593,10 +1706,11 @@
     ],
     "correct_answer": "D",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q39: H&G concept question.",
     "choices": [
@@ -1607,10 +1721,11 @@
     ],
     "correct_answer": "B",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q40: H&G concept question.",
     "choices": [
@@ -1621,10 +1736,11 @@
     ],
     "correct_answer": "C",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q41: H&G concept question.",
     "choices": [
@@ -1635,10 +1751,11 @@
     ],
     "correct_answer": "A",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q42: H&G concept question.",
     "choices": [
@@ -1649,10 +1766,11 @@
     ],
     "correct_answer": "D",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q43: H&G concept question.",
     "choices": [
@@ -1663,10 +1781,11 @@
     ],
     "correct_answer": "B",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q44: H&G concept question.",
     "choices": [
@@ -1677,10 +1796,11 @@
     ],
     "correct_answer": "C",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q45: H&G concept question.",
     "choices": [
@@ -1691,10 +1811,11 @@
     ],
     "correct_answer": "A",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q46: H&G concept question.",
     "choices": [
@@ -1705,10 +1826,11 @@
     ],
     "correct_answer": "D",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q47: H&G concept question.",
     "choices": [
@@ -1719,10 +1841,11 @@
     ],
     "correct_answer": "B",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q48: H&G concept question.",
     "choices": [
@@ -1733,10 +1856,11 @@
     ],
     "correct_answer": "C",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q49: H&G concept question.",
     "choices": [
@@ -1747,10 +1871,11 @@
     ],
     "correct_answer": "A",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Hydro & Geo",
+    "section": "HPGE",
     "group_id": null,
     "stem": "Q50: H&G concept question.",
     "choices": [
@@ -1761,40 +1886,103 @@
     ],
     "correct_answer": "D",
     "difficulty": 2,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
-    "group_id": null,
-    "stem": "Q1: Design concept question.",
+    "section": "PSAD",
+    "group_id": "M11-08P",
+    "stem": "The bolts in the lap joint shown in Figure 005 are 22 mm in diameter and installed in 25-mm-diameter holes. The plates are A36 steel with Fy = 250 MPa and Fu = 400 MPa. For this problem, x1 = 50 mm, x2 = 160 mm, x3 = 60 mm, t = 12 mm. The allowable stresses are: Bearing stress on projected area of the plates, Fp = 1.5 Fu Tension on net area of plates, Ft = 0.5 Fu Shear on plates, Fv = 0.3 Fu Shear strength of bolt, Fv = 210 MPa. Determine the value of load P based on bolt shear.",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 621 kN",
+      "B. 479 kN",
+      "C. 329 kN",
+      "D. 538 kN"
     ],
     "correct_answer": "B",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-08P.jpg?raw=true"
+  },
   {
-    "section": "Design",
-    "group_id": null,
-    "stem": "Q2: Design concept question.",
+    "section": "PSAD",
+    "group_id": "M11-08P",
+    "stem": "Determine the value of load P based on bearing on projected area on plate.",
     "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A. 870 kN",
+      "B. 750 kN",
+      "C. 1020 kN",
+      "D. 950 kN"
+    ],
+    "correct_answer": "D",
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-08P.jpg?raw=true"
+  },
+  {
+    "section": "PSAD",
+    "group_id": "M11-08P",
+    "stem": "Determine the value of load P based on block shear.",
+    "choices": [
+      "A. 532 kN",
+      "B. 623 kN",
+      "C. 328 kN",
+      "D. 489 kN"
     ],
     "correct_answer": "C",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/M11-08P.jpg?raw=true"
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
+    "group_id": "N11-06P",
+    "stem": "What is the maximum stress (MPa) in the bottom fiber of the beam at the free end when the eccentricity e = 0?",
+    "choices": [
+      "A. -7.86",
+      "B. -13.45",
+      "C. -2.25",
+      "D. -10.35"
+    ],
+    "correct_answer": "C",
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/N11-06P.jpg?raw=true"
+  },
+  {
+    "section": "PSAD",
+    "group_id": "N11-06P",
+    "stem": "What is the stress in the top fiber of the beam at the fixed end when the eccentricity e = 100 mm?",
+    "choices": [
+      "A. +5.4 MPa",
+      "B. +6.3 MPa",
+      "C. +8.1 MPa",
+      "D. +3.6 MPa"
+    ],
+    "correct_answer": "D",
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/N11-06P.jpg?raw=true"
+  },
+  {
+    "section": "PSAD",
+    "group_id": "N11-06P",
+    "stem": "What is the required eccentricity e such that the stress in the top fiber of the beam at the fixed end is zero?",
+    "choices": [
+      "A. 230 mm",
+      "B. 160 mm",
+      "C. 200 mm",
+      "D. 260 mm"
+    ],
+    "correct_answer": "D",
+    "difficulty": 3,
+    "term": "False",
+    "figure": "https://github.com/saydyin/ce-exam/blob/images/figures/N11-06P.jpg?raw=true"
+  },
+  {
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q3: Design concept question.",
+    "stem": "Q7: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1803,12 +1991,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q4: Design concept question.",
+    "stem": "Q8: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1817,12 +2006,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q5: Design concept question.",
+    "stem": "Q9: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1831,12 +2021,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q6: Design concept question.",
+    "stem": "Q10: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1845,12 +2036,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q7: Design concept question.",
+    "stem": "Q11: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1859,12 +2051,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q8: Design concept question.",
+    "stem": "Q12: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1873,12 +2066,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q9: Design concept question.",
+    "stem": "Q13: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1887,12 +2081,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q10: Design concept question.",
+    "stem": "Q14: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1901,12 +2096,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q11: Design concept question.",
+    "stem": "Q15: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1915,12 +2111,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q12: Design concept question.",
+    "stem": "Q16: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1929,12 +2126,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q13: Design concept question.",
+    "stem": "Q17: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1943,12 +2141,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q14: Design concept question.",
+    "stem": "Q18: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1957,12 +2156,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q15: Design concept question.",
+    "stem": "Q19: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1971,12 +2171,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q16: Design concept question.",
+    "stem": "Q20: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1985,12 +2186,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q17: Design concept question.",
+    "stem": "Q21: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -1999,12 +2201,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q18: Design concept question.",
+    "stem": "Q22: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2013,12 +2216,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q19: Design concept question.",
+    "stem": "Q23: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2027,12 +2231,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q20: Design concept question.",
+    "stem": "Q24: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2041,12 +2246,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q21: Design concept question.",
+    "stem": "Q25: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2055,12 +2261,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q22: Design concept question.",
+    "stem": "Q26: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2069,12 +2276,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q23: Design concept question.",
+    "stem": "Q27: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2083,12 +2291,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q24: Design concept question.",
+    "stem": "Q28: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2097,12 +2306,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q25: Design concept question.",
+    "stem": "Q29: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2111,12 +2321,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q26: Design concept question.",
+    "stem": "Q30: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2125,12 +2336,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q27: Design concept question.",
+    "stem": "Q31: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2139,12 +2351,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q28: Design concept question.",
+    "stem": "Q32: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2153,12 +2366,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q29: Design concept question.",
+    "stem": "Q33: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2167,12 +2381,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q30: Design concept question.",
+    "stem": "Q34: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2181,12 +2396,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q31: Design concept question.",
+    "stem": "Q35: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2195,12 +2411,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q32: Design concept question.",
+    "stem": "Q36: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2209,12 +2426,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q33: Design concept question.",
+    "stem": "Q37: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2223,12 +2441,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q34: Design concept question.",
+    "stem": "Q38: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2237,12 +2456,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q35: Design concept question.",
+    "stem": "Q39: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2251,12 +2471,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q36: Design concept question.",
+    "stem": "Q40: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2265,12 +2486,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q37: Design concept question.",
+    "stem": "Q41: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2279,12 +2501,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q38: Design concept question.",
+    "stem": "Q42: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2293,12 +2516,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q39: Design concept question.",
+    "stem": "Q43: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2307,12 +2531,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q40: Design concept question.",
+    "stem": "Q44: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2321,12 +2546,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q41: Design concept question.",
+    "stem": "Q45: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2335,12 +2561,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q42: Design concept question.",
+    "stem": "Q46: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2349,12 +2576,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q43: Design concept question.",
+    "stem": "Q47: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2363,12 +2591,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q44: Design concept question.",
+    "stem": "Q48: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2377,12 +2606,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q45: Design concept question.",
+    "stem": "Q49: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2391,12 +2621,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q46: Design concept question.",
+    "stem": "Q50: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2405,12 +2636,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q47: Design concept question.",
+    "stem": "Q51: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2419,12 +2651,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q48: Design concept question.",
+    "stem": "Q52: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2433,12 +2666,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q49: Design concept question.",
+    "stem": "Q53: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2447,12 +2681,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q50: Design concept question.",
+    "stem": "Q54: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2461,12 +2696,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q51: Design concept question.",
+    "stem": "Q55: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2475,12 +2711,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q52: Design concept question.",
+    "stem": "Q56: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2489,12 +2726,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q53: Design concept question.",
+    "stem": "Q57: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2503,12 +2741,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q54: Design concept question.",
+    "stem": "Q58: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2517,12 +2756,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q55: Design concept question.",
+    "stem": "Q59: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2531,12 +2771,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q56: Design concept question.",
+    "stem": "Q60: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2545,12 +2786,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q57: Design concept question.",
+    "stem": "Q61: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2559,12 +2801,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q58: Design concept question.",
+    "stem": "Q62: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2573,12 +2816,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q59: Design concept question.",
+    "stem": "Q63: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2587,12 +2831,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q60: Design concept question.",
+    "stem": "Q64: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2601,12 +2846,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q61: Design concept question.",
+    "stem": "Q65: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2615,12 +2861,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q62: Design concept question.",
+    "stem": "Q66: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2629,12 +2876,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q63: Design concept question.",
+    "stem": "Q67: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2643,12 +2891,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q64: Design concept question.",
+    "stem": "Q68: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2657,12 +2906,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q65: Design concept question.",
+    "stem": "Q69: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2671,12 +2921,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q66: Design concept question.",
+    "stem": "Q70: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2685,12 +2936,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q67: Design concept question.",
+    "stem": "Q71: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2699,12 +2951,13 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q68: Design concept question.",
+    "stem": "Q72: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2713,12 +2966,13 @@
     ],
     "correct_answer": "D",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q69: Design concept question.",
+    "stem": "Q73: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2727,12 +2981,13 @@
     ],
     "correct_answer": "B",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q70: Design concept question.",
+    "stem": "Q74: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2741,12 +2996,13 @@
     ],
     "correct_answer": "C",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
+    "term": "False",
+    "figure": null
+  },
   {
-    "section": "Design",
+    "section": "PSAD",
     "group_id": null,
-    "stem": "Q71: Design concept question.",
+    "stem": "Q75: PSAD concept question.",
     "choices": [
       "A",
       "B",
@@ -2755,62 +3011,7 @@
     ],
     "correct_answer": "A",
     "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Design",
-    "group_id": null,
-    "stem": "Q72: Design concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "D",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Design",
-    "group_id": null,
-    "stem": "Q73: Design concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "B",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Design",
-    "group_id": null,
-    "stem": "Q74: Design concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "C",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  },
-  {
-    "section": "Design",
-    "group_id": null,
-    "stem": "Q75: Design concept question.",
-    "choices": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_answer": "A",
-    "difficulty": 1,
-    "term": false,
-    "figure": "https://i.imgur.com/N8FRRdz.jpeg"  }
+    "term": "False",
+    "figure": null
+  }
 ]
