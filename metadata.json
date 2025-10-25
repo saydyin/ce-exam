@@ -1,0 +1,5 @@
+{
+  "name": "Civil Engineering Exam Simulator",
+  "description": "A comprehensive exam simulator for Civil Engineering board exams, modeled after the PRC examination system. Features customizable settings, study and exam modes, performance analytics, and question bookmarking.",
+  "requestFramePermissions": []
+}
