@@ -1,4 +1,6 @@
-⦁	Site: Working (https://saydyin.github.io/ce-exam-site/)  
+⦁	Site: Working (https://saydyin.github.io/ce-exam-site/)    
+   Online: ✔️   
+   Offline: ❌  
 ⦁	MSI/exe: Currently WIP  
 ⦁	.apk: Currently WIP  
  
